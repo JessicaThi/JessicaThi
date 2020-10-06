@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 I have to complete my profile, I'm coming back with fresh idea 
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jessicathi-the-encoder)  
