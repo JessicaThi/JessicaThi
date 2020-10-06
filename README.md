@@ -1,4 +1,4 @@
-### Hi, I'm Jessica <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hey.gif' alt='hey' height='30'>
+## Hi, I'm Jessica <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hey.gif' alt='hey' height='30'>
 
 I'm freelance developer front-end. I worked during 2 years in a web agency. I had planned to travel in 2020 but because of the covid I travel from my sofa ! Sometimes I play at ACNH, TFT, LoL
 
@@ -6,7 +6,7 @@ I'm freelance developer front-end. I worked during 2 years in a web agency. I ha
 👯 I’m looking to collaborate with designers
 ⚡ Fun fact: I have an insta food ! 
 
-### Take a look 
+## Take a look 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/jessicathi-the-encoder)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/thielemans1ef3)  
 
