@@ -1,5 +1,6 @@
-## Hi, I'm Jessica <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hey.gif' alt='hey' height='30'>
+<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hi.svg' alt='hey'>
 
+## Hi, I'm Jessica 
 I'm freelance developer front-end. I worked during 2 years in a web agency. I had planned to travel in 2020 but because of the covid I travel from my sofa ! Sometimes I play at ACNH, TFT, LoL
 
 
