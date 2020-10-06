@@ -1,4 +1,4 @@
-### Hi, I'm Jessica 👋
+### Hi, I'm Jessica [<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hey.gif' alt='hey' height='30'>]
 
 <!--
 **JessicaThi/JessicaThi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I have to complete my profile, I'm coming back with fresh idea 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jessicathi-the-encoder)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/thielemans1ef3)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/jessicathi-the-encoder)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/thielemans1ef3)  
