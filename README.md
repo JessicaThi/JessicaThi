@@ -1,6 +1,7 @@
 <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hi.svg' alt='hey'>
 
-I'm freelance developer front-end. I worked during 2 years in a web agency. I had planned to travel in 2020 but because of the covid I travel from my sofa ! Sometimes I play at ACNH, TFT, LoL
+I'm freelance developer front-end. I worked during 2 years in a web agency. 
+I had planned to travel in 2020 but because of the covid I travel from my sofa ! Sometimes I play at ACNH, TFT, LoL
 
 
 🌱 I’m currently learning React & GSAP     
