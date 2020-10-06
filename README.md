@@ -9,7 +9,7 @@ I'm freelance developer front-end. I worked during 2 years in a web agency. I ha
 
 ## Take a look 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/jessicathi-the-encoder)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='25'>](https://www.behance.net/thielemans1ef3)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='25'>](https://www.behance.net/thielemans1ef3) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/jessicathi-the-encoder)      
 
 <!--
 **JessicaThi/JessicaThi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
