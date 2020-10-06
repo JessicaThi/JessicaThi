@@ -22,8 +22,6 @@ I'm freelance developer front-end. I worked during 2 years in a web agency. I ha
 👯 I’m looking to collaborate with designers
 ⚡ Fun fact: I have an insta food ! 
 
-~~The world is flat.~~
-
 ## Take a look 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/jessicathi-the-encoder)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/thielemans1ef3)  
