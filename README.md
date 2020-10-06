@@ -10,7 +10,7 @@ I had planned to travel in 2020 but because of the covid I travel from my sofa !
 
 ## Take a look 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='25'>](https://www.behance.net/thielemans1ef3) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/jessicathi-the-encoder)    
+ [<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/be.svg' alt='behance' height='25'>](https://www.behance.net/thielemans1ef3) [<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/codepen.svg' alt='codepen' height='25'>](https://codepen.io/jessicathi-the-encoder)    
  
  Thank you for your visit ! 😊
 
