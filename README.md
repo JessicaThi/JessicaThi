@@ -1,4 +1,4 @@
-### Hi, I'm Jessica [<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hey.gif' alt='hey' height='30'>]
+### Hi, I'm Jessica <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hey.gif' alt='hey' height='30'>
 
 <!--
 **JessicaThi/JessicaThi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
