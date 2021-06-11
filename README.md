@@ -4,7 +4,7 @@
  I had planned to travel in 2020 but because of the covid I travel from my sofa ! Sometimes I play at ACNH, TFT, LoL</p>
 
 
-🌱 I’m currently learning **React & GSAP**     
+🌱 I’m currently working on **Vue.js & Tailwind.css**     
 👯 I’m looking to collaborate with designers    
 ⚡ Fun fact: I have an insta food !    
 
