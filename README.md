@@ -10,7 +10,7 @@
 
 ## Take a look 
 
-[<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/codepen.svg' alt='codepen' height='25'>](https://codepen.io/jessicathi-the-encoder)  [<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/be.svg' alt='behance' height='22'>](https://www.behance.net/thielemans1ef3)    
+[<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/codepen.svg' alt='codepen' height='25'>](https://codepen.io/jessicathi-the-encoder)  [<img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/be.svg' alt='behance' height='22'>](https://www.behance.net/jthi)    
  
  Thank you for your visit ! 😊
 
