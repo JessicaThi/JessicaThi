@@ -1,10 +1,11 @@
 <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hi.svg' alt='hey'>
 
-<p align="center">I'm freelance developer front-end.<br/>     
+<p align="center">I'm freelance developer front-end since 4 years.<br/>     
  I had planned to travel in 2020 but because of the covid I travel from my sofa ! Sometimes I play at ACNH, TFT, LoL</p>
 
 
-🌱 I’m currently working on **Vue.js & Tailwind.css**     
+👩🏻‍💻 I’m currently working on **Vue.js & Tailwind.css**    
+🌱 I’m currently learning **Webflow & PHP**     
 👯 I’m looking to collaborate with designers    
 ⚡ Fun fact: I have an insta food !    
 
