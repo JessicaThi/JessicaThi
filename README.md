@@ -1,7 +1,7 @@
 <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hi.svg' alt='hey'>
 
 <p align="center">I'm freelance developer front-end since 4 years.<br/>     
- I travelled in S. Korea and I'm planning to go back again ! Sometimes I play at ACNH, TFT, LoL</p>
+ I'm based in South Korea ! Sometimes I play at ACNH, TFT, LoL</p>
 
 
 👩🏻‍💻 I’m currently working on **Vue.js & Tailwind.css**    
