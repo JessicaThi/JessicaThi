@@ -5,7 +5,9 @@
 
 
 🔭 Building scalable web products with AI-assisted development
+
 🌱 Experimenting with AI agents, developer tooling, and modern product workflows
+
 👯 Interested in open-source, AI, and developer experience projects
 
 ⚡ I see AI as a teammate, not a replacement
