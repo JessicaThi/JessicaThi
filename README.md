@@ -1,13 +1,14 @@
 <img src='https://github.com/JessicaThi/JessicaThi/blob/master/images/hi.svg' alt='hey'>
 
-<p align="center">I'm freelance developer front-end since 4 years.<br/>     
- I'm based in South Korea ! Sometimes I play at ACNH, TFT, LoL</p>
+<p align="center">I'm developer front-end since 5 years and more<br/>     
+ I'm based in South Korea ! Sometimes I play at ACNH & LoL</p>
 
 
-👩🏻‍💻 I’m currently working on **Vue.js & Tailwind.css**    
-🌱 I’m currently learning **Ruby**     
-👯 I’m looking to collaborate with designers    
-⚡ Fun fact: I have an insta food !    
+🔭 Building scalable web products with AI-assisted development
+🌱 Experimenting with AI agents, developer tooling, and modern product workflows
+👯 Interested in open-source, AI, and developer experience projects
+
+⚡ I see AI as a teammate, not a replacement
 
 ## Take a look 
 
